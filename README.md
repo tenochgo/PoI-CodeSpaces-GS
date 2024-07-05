@@ -1,4 +1,4 @@
-# PoI-CodeSpaces-GS
+# Path of Illumination - GitHub CodeSpaces - Getting Started
 This repo is dedicated to empower your skills in the use of Codespaces, please fork this repo!
 
 </header>
