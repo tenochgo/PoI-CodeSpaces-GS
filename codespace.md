@@ -11,3 +11,4 @@ But it wasn't just the technical aspects that made Alex a happy developer. Alex 
 At the end of each day, as the sun set on the horizon, Alex would reflect on the progress made and the lessons learned. With a sense of accomplishment, Alex would eagerly look forward to the next day's coding adventures.
 
 And so, the story of the happy developer, Alex, continues, filled with passion, creativity, and the joy of bringing ideas to life through code.
+# Writing code upon codespace creation!
